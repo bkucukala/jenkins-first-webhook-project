@@ -1,1 +1,1 @@
-print('Hello World for Jenkins Job trigger')
+print('Hello World for Jenkins Job New')
